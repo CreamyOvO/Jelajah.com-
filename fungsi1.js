@@ -161,4 +161,5 @@ if (box3_el && isi2_h1 && isi2_p && isi2_a && arrowLeft3 && arrowRight3 && isi2_
 } else {
   // debug ringan kalau struktur HTML berubah
   console.warn("kecakSlides3: beberapa elemen #sebuah3 tidak ditemukan. Periksa id/class pada HTML.");
+
 }
