@@ -19,8 +19,8 @@ const slides = [
         desc: "Pura Uluwatu adalah salah satu pura terpenting di Bali yang berdiri di atas tebing tinggi sekitar 70 meter di atas laut. Pura ini terkenal karena pemandangan matahari terbenamnya yang sangat indah serta pertunjukan Tari Kecak yang biasanya digelar setiap sore. Selain sebagai tempat ibadah, Pura Uluwatu juga menjadi ikon wisata karena lokasinya yang dramatis di tebing dan keberadaan monyet-monyet liar di sekitarnya."
     },
     {
-        img: "Content/Kuta.webp",
-        bg: "Content/Kuta.webp",
+        img: "Content/kuta.webp",
+        bg: "Content/kuta.webp",
         title: "Pantai Kuta",
         desc: "Kuta Beach adalah salah satu pantai paling populer di Bali, terkenal dengan pasir putih yang panjang, ombak yang cocok untuk surfing pemula hingga menengah, dan suasana yang selalu ramai. Pantai ini juga jadi tempat favorit untuk menikmati sunset karena garis pantainya yang menghadap barat. Di sekitarnya banyak hotel, restoran, dan pusat belanja sehingga Kuta dikenal sebagai pusat wisata paling hidup di Bali."
     },
